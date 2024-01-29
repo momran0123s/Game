@@ -1,0 +1,16 @@
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\bin\Debug\net8.0-windows\Form1.exe
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\bin\Debug\net8.0-windows\Form1.deps.json
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\bin\Debug\net8.0-windows\Form1.runtimeconfig.json
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\bin\Debug\net8.0-windows\Form1.dll
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\bin\Debug\net8.0-windows\Form1.pdb
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\obj\Debug\net8.0-windows\Form2.Form1.resources
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\obj\Debug\net8.0-windows\Form1.csproj.GenerateResource.cache
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\obj\Debug\net8.0-windows\Form1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\obj\Debug\net8.0-windows\Form1.AssemblyInfoInputs.cache
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\obj\Debug\net8.0-windows\Form1.AssemblyInfo.cs
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\obj\Debug\net8.0-windows\Form1.csproj.CoreCompileInputs.cache
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\obj\Debug\net8.0-windows\Form1.dll
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\obj\Debug\net8.0-windows\refint\Form1.dll
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\obj\Debug\net8.0-windows\Form1.pdb
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\obj\Debug\net8.0-windows\Form1.genruntimeconfig.cache
+D:\ITI\Advanced C#\Tasks\Tak8\FinalProject\Form2\obj\Debug\net8.0-windows\ref\Form1.dll
